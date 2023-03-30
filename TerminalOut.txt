@@ -1,0 +1,22 @@
+yur@yur-virtualbox:~/WebAcademy$ git remote add origin https://github.com/Merzya/WebAcademy.git
+yur@yur-virtualbox:~/WebAcademy$ git push -u origin main
+Enumerating objects: 3, done.
+Counting objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 232 bytes | 232.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/Merzya/WebAcademy.git
+ * [new branch]      main -> main
+Branch 'main' set up to track remote branch 'main' from 'origin'.
+yur@yur-virtualbox:~/WebAcademy$ 
+yur@yur-virtualbox:~/WebAcademy$ git branch  dev
+yur@yur-virtualbox:~/WebAcademy$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+yur@yur-virtualbox:~/WebAcademy$ git log
+commit 8d132a13b32d71ad3bf0adb204ede799941a7982 (HEAD -> main, origin/main, dev)
+Author: Merzhievky Yuri <morgershterm@gmail.com>
+Date:   Thu Mar 30 18:55:57 2023 +0300
+
+    first comit
