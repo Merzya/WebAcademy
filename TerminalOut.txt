@@ -20,3 +20,23 @@ Author: Merzhievky Yuri <morgershterm@gmail.com>
 Date:   Thu Mar 30 18:55:57 2023 +0300
 
     first comit
+yur@yur-virtualbox:~/WebAcademy$ git checkout feature
+Switched to branch 'feature'
+yur@yur-virtualbox:~/WebAcademy$ git add TerminalOut.txt
+yur@yur-virtualbox:~/WebAcademy$ git commit
+[feature c5b860d] second comit  new file:   TerminalOut.txt
+ 1 file changed, 22 insertions(+)
+ create mode 100644 TerminalOut.txt
+yur@yur-virtualbox:~/WebAcademy$ git log
+commit c5b860dfb87979eebb98fd5f2c39dabbf0952a62 (HEAD -> feature)
+Author: Merzhievky Yuri <morgershterm@gmail.com>
+Date:   Thu Mar 30 19:35:45 2023 +0300
+
+    second comit
+            new file:   TerminalOut.txt
+
+commit 8d132a13b32d71ad3bf0adb204ede799941a7982 (origin/main, main, dev)
+Author: Merzhievky Yuri <morgershterm@gmail.com>
+Date:   Thu Mar 30 18:55:57 2023 +0300
+
+    first comit
