@@ -1,0 +1,19 @@
+ommit d04a35ed5a84692132fe814ea76a5e39e4a046dd (HEAD -> dev, tag: finish, origin/feature, origin/dev, feature)
+Author: Merzhievky Yuri <morgershterm@gmail.com>
+Date:   Thu Mar 30 19:40:57 2023 +0300
+
+     thirf comit
+            modified:   TerminalOut.txt
+
+commit c5b860dfb87979eebb98fd5f2c39dabbf0952a62
+Author: Merzhievky Yuri <morgershterm@gmail.com>
+Date:   Thu Mar 30 19:35:45 2023 +0300
+                                                                                                                             
+    second comit
+            new file:   TerminalOut.txt
+
+commit 8d132a13b32d71ad3bf0adb204ede799941a7982 (origin/main, main)
+Author: Merzhievky Yuri <morgershterm@gmail.com>
+Date:   Thu Mar 30 18:55:57 2023 +0300
+
+    first comit
